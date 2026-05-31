@@ -1,0 +1,6 @@
+{
+  "name": "Gig Economy AI Financial OS",
+  "description": "AI-powered platform for gig workers to optimize spending, track income, and access micro-lending.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
